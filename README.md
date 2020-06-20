@@ -1,2 +1,5 @@
 # hello_world
-my first repository.
+
+Hi people!
+
+Lochana here, This is my frist repositary on this account. 
